@@ -1,1 +1,1 @@
-# practicas_de_laboratorio
+Practicas de laboratorio elaboradas todos los viernes 
