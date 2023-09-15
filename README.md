@@ -1,1 +1,1 @@
-Practicas de laboratorio elaboradas todos los viernes 
+Practicas de laboratorio elaboradas todos los viernes
